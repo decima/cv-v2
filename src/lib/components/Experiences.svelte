@@ -4,7 +4,6 @@
     import ExperienceCard from "./ExperienceCard.svelte";
 
     let experiencesPromise = dataLoad("experiences");
-
 </script>
 <div>
 <h1 class="title">{$t("title.experiences")}</h1>
@@ -19,7 +18,6 @@
                 </div>
             {/if}
         {/each}
-
     </div>
 {:catch error}
     <p>...error {error}</p>

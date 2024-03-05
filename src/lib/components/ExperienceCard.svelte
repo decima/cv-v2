@@ -20,7 +20,10 @@
         {#if experience.to } {formatDate(experience.to)}{:else} now{/if}
     </div>
 
-    <div class="text-xs">{experience.description ?? ""}</div>
+    {#each experience.descriptions as description }
+        <div class="text-xs">{description ?? ""}</div>
+    {/each}
+
     {#if experience.keywords}
         {#each experience.keywords as keyword }
                 <Badge>{keyword}</Badge>

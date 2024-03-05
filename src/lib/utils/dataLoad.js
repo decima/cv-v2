@@ -1,12 +1,9 @@
 import _ from "lodash";
 export async function dataLoad(resource) {
-
-
     return new Promise(async (resolve, reject) => {
         let content = {}
         try {
             content = (await import("../../assets/data/" + resource + "Fallback.json" /* @vite-ignore */)).default;
-
         } catch (e) {
             reject(e);
         }
@@ -18,7 +15,6 @@ export async function dataLoad(resource) {
         } catch (e) {
             console.error("Error loading " + resourceFile + ", using fallback only ("+e+")");
         }
-
 
         resolve(content);
     });

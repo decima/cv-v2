@@ -11,7 +11,6 @@
 
 <div class="w-full">
     <h2 class=" text-primary content-center font-bold">
-
         {study.title ?? ""}
     </h2>
 
@@ -22,13 +21,7 @@
         <div>
             <span class="material-symbols-outlined">pin_drop</span> {study.school}
         </div>
-
-
     </div>
 
     <div class="text-xs">{study.description ?? ""}</div>
-
-
-
-
 </div>

@@ -3,7 +3,6 @@ module.exports = {
     content: [
         "./index.html",
         "./src/**/*.{svelte,js,ts,jsx,tsx}",
-
     ],
     theme: {
         extend: {},
@@ -12,11 +11,10 @@ module.exports = {
         themes: [
             {
                 'mytheme': {
-                    ...require("daisyui/src/theming/themes")["[data-theme=valentine]"],
-                    'primary': '#7e1949',
-                    'secondary': '#FF3399',
-                    'base-100': '#fff',
-
+                    ...require("daisyui/src/theming/themes")["[data-theme=autumn]"],
+                    // 'primary': '#7e1949',
+                    // 'secondary': '#FF3399',
+                    // 'base-100': '#fff',
                 }
             }
         ]

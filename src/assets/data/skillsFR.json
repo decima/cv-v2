@@ -1,10 +1,5 @@
 [
-  {
-    "name": "Développement",
-    "keywords": {
-      "2": "Golang"
-    }
-  },
+  {},
   {},
   {},
   {
@@ -12,8 +7,7 @@
     "keywords": [
       "Français",
       "Anglais",
-      "Espagnol",
-      "Bulgare"
+      "Italien"
     ]
   }
 ]

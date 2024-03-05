@@ -5,20 +5,18 @@
     import StudyCard from "./StudyCard.svelte";
 
     let studiesPromise = dataLoad("studies");
-
 </script>
-<div>
 
+<div>
     <h1 class="title">{$t("title.studies")}</h1>
 
     {#await studiesPromise}
         <p>...loading</p>
     {:then studies}
-        <div class="flex gap-2">
+        <div class="flex flex-col gap-2">
             {#each studies as study}
                 <StudyCard study={study}/>
             {/each}
-
         </div>
     {:catch error}
         <p>...error {error}</p>

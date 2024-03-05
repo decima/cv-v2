@@ -5,41 +5,29 @@
     "keywords": [
       "PHP",
       "Symfony",
-      "Golang",
-      "Kotlin",
-      "Javascript",
-      "Python",
-      "Java"
+      "Laravel",
+      "JavaScript",
+      "Vue.js",
+      "React"
     ]
   },
   {
     "name": "Data",
     "icon": "database",
     "keywords": [
-      "Elasticsearch",
       "SQL",
-      "MongoDB",
       "Redis",
-      "Neo4j",
-      "DBT",
-      "Fivetran",
-      "Hightouch",
-      "BigQuery",
-      "tableau"
+      "DBT"
     ]
   },
   {
     "name": "Devops",
     "icon": "settings",
     "keywords": [
-      "Linux/Unix",
       "Docker",
-      "Traefik",
-      "Docker Swarm",
-      "Prometheus",
-      "Grafana",
-      "Graylog",
-      "Gitlab CI"
+      "Linux/Unix",
+      "Gitlab",
+      "Github"
     ]
   },
   {
@@ -48,8 +36,7 @@
     "keywords": [
       "French",
       "English",
-      "Spanish",
-      "Bulgarian"
+      "Italian"
     ]
   }
 ]

@@ -5,7 +5,6 @@
     import StudyCard from "./StudyCard.svelte";
 
     let interestsPromise = dataLoad("interests");
-
 </script>
 <div>
 

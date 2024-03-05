@@ -1,6 +1,17 @@
 [
   {
-    "title": "Master informatique - spécialité E-services",
-    "school": "Université de Lille - France"
+    "title": "Titre RNCP de niveau 1 – Chef de projet SI, spé. Informatique et Management de projet",
+    "school": "Institut G4 - Lyon, FRANCE",
+    "date": "2017 - 2020"
+  },
+  {
+    "title": "DUT MMI (Métiers du Multimédia et de l’Internet)",
+    "school": "Université SMB - Le Bourget-du-Lac, FRANCE",
+    "date": "2014 - 2016"
+  },
+  {
+    "title": "Bac S (option sciences de l’ingénieur)",
+    "school": "Lycée la Pléiade - Pont-de-Chéruy, FRANCE",
+    "date": "2014"
   }
 ]

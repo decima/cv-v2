@@ -1,22 +1,21 @@
 {
   "name": {
     "title": "Mr.",
-    "first": "Henri",
-    "last": "LARGET"
+    "first": "Julien",
+    "last": "BOILEVIN"
   },
-  "location": "Annecy, France",
-  "email": "henri@larget.fr",
-  "phone": "+33 6 81 79 05 20",
+  "location": "Lyon, France",
+  "email": "julien.boilevin@gmail.com",
+  "phone": "+33 6 28 53 33 93",
   "picture": {
-    "large": "https://www.gravatar.com/avatar/0b643467175470ed26f1f01fee5e911c.jpeg?size=1000"
+    "large": "/img/julien-boilevin.jpg"
   },
   "job": {
     "title": "Backend Engineer"
   },
-  "description": "Looking for new challenges",
+  "description": "Looking for new missions",
   "socials": {
-    "github": "https://github.com/decima",
-    "linkedin": "https://www.linkedin.com/in/d3cima/",
-    "stackoverflow": "https://stackoverflow.com/users/3717767/d3cima"
+    "github": "https://github.com/Rnd00m",
+    "linkedin": "https://www.linkedin.com/in/julien-boilevin/"
   }
 }
