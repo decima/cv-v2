@@ -1,9 +1,13 @@
 [
   {
     "descriptions": [
-      "Conception et développement d'APIs",
+      "Conception fonctionnelle et technique",
+      "Développement de nouvelles fonctionnalités sur la boutique, les produits, l’application candidat, l’application enseignant ou encore l’application destinée aux administrateurs",
+      "Développement d'APIs",
       "Testing (unitaire, fonctionnel, intégration)",
-      "Déploiement continu (99,99% de disponibilité)"
+      "Maintenance applicative",
+      "Déploiement continu (99,99% de disponibilité)",
+      "Refactoring de code"
     ]
   },
   {

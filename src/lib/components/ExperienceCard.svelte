@@ -1,11 +1,17 @@
 <script>
-    import moment from "moment";
     import Badge from "./Badge.svelte";
+
+    const options = {
+        year: 'numeric',
+        month: 'short',
+    };
 
     export let experience;
 
     function formatDate(date) {
-        return moment(date).locale("fr").format('YYYY MMM')
+        const event = new Date(date);
+
+        return event.toLocaleDateString('fr-FR', options);
     }
 </script>
 
@@ -16,8 +22,9 @@
     </h2>
 
     <div class=" text-sm text-secondary">
-        <span class="  text-sm material-symbols-outlined">calendar_month</span> {formatDate(experience.from)} -
-        {#if experience.to } {formatDate(experience.to)}{:else} now{/if}
+        <span class="text-sm material-symbols-outlined">calendar_month</span>
+        <span class="capitalize">{formatDate(experience.from)}</span> -
+        {#if experience.to } <span class="capitalize">{formatDate(experience.to)}</span> {:else} Aujourd'hui{/if}
     </div>
 
     {#each experience.descriptions as description }
@@ -29,8 +36,4 @@
                 <Badge>{keyword}</Badge>
         {/each}
     {/if}
-
-
-
-
 </div>

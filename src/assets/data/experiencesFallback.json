@@ -25,10 +25,10 @@
     "descriptions": [
       ""
     ],
-    "from": "2015-09-28",
+    "from": "2020-09-01",
     "to": "2021-11-25",
     "displayInResume": true,
-    "icon": "receipt_long",
+    "icon": "flowsheet",
     "keywords": [
       "PHP",
       "Laravel",
@@ -49,7 +49,7 @@
     "from": "2017-06-01",
     "to": "2020-08-31",
     "displayInResume": true,
-    "icon": "receipt_long",
+    "icon": "stacks",
     "keywords": [
       "PHP",
       "Laravel",
@@ -68,7 +68,7 @@
     "from": "2016-04-01",
     "to": "2016-06-30",
     "displayInResume": true,
-    "icon": "receipt_long",
+    "icon": "school",
     "keywords": [
       "PHP",
       "Laravel",
