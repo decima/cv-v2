@@ -5,12 +5,11 @@
     "company_doing": "Online drivingschool",
     "descriptions": [
       "Functional and technical conception",
-      "Development of new functionalities for the store, products, candidate application, teacher application and administrator application",
+      "Development of new functionalities for B2C and B2B applications and internal tools",
       "API development",
       "Testing (unit, functional, integration)",
-      "Application maintenance",
-      "Continuous delivery (99.99% availability)",
-      "Code refactoring"
+      "Application maintenance and code refactoring",
+      "Continuous delivery development (99.99% availability)"
     ],
     "from": "2021-12-01",
     "to": null,
@@ -35,7 +34,7 @@
       "Project management in Agile mode",
       "Communication and customer relations",
       "Data migration",
-      "Installation of servers and automatic deployment system"
+      "Setting up servers and CI/CD system on GitLab"
     ],
     "from": "2020-09-01",
     "to": "2021-11-25",

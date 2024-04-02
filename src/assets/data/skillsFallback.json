@@ -3,33 +3,35 @@
     "name": "Programming",
     "icon": "code",
     "keywords": [
+      "HTML",
+      "CSS",
       "PHP",
-      "Symfony",
-      "Laravel",
       "JavaScript",
       "TypeScript",
-      "Vue.js",
-      "React"
-    ]
-  },
-  {
-    "name": "Data",
-    "icon": "database",
-    "keywords": [
       "SQL",
-      "MySQL",
-      "SQL Server",
       "Redis"
     ]
   },
   {
-    "name": "Devops",
-    "icon": "settings",
+    "name": "Frameworks",
+    "icon": "construction",
+    "keywords": [
+      "Symfony",
+      "Laravel",
+      "Vue.js",
+      "React",
+      "TailwindCSS"
+    ]
+  },
+  {
+    "name": "Tools",
+    "icon": "service_toolbox",
     "keywords": [
       "Docker",
       "Linux/Unix",
-      "Gitlab",
-      "Github"
+      "Git",
+      "Notion",
+      "GSuite"
     ]
   },
   {

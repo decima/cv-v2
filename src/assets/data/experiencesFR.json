@@ -2,12 +2,11 @@
   {
     "descriptions": [
       "Conception fonctionnelle et technique",
-      "Développement de nouvelles fonctionnalités sur la boutique, les produits, l’application candidat, l’application enseignant ou encore l’application destinée aux administrateurs",
+      "Développement de nouvelles fonctionnalités sur les applications B2C, B2B et les outils internes",
       "Développement d'APIs",
       "Testing (unitaire, fonctionnel, intégration)",
-      "Maintenance applicative",
-      "Déploiement continu (99,99% de disponibilité)",
-      "Refactoring de code"
+      "Maintenance applicative et refactoring de code",
+      "Développement en livraison continu (99,99% de disponibilité)"
     ]
   },
   {
@@ -16,7 +15,7 @@
       "Gestion de projet en mode Agile",
       "Communication et relation client",
       "Migration de données",
-      "Mise en place des serveurs et du système de déploiement automatique"
+      "Mise en place des serveurs et du système de CI/CD sur GitLab"
     ]
   },
   {
