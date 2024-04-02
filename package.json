@@ -19,7 +19,6 @@
   },
   "dependencies": {
     "crypto-js": "^4.1.1",
-    "lodash": "^4.17.21",
-    "moment": "^2.29.4"
+    "lodash": "^4.17.21"
   }
 }
