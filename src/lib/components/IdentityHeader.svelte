@@ -11,7 +11,7 @@
         <div class="hero-content flex-col lg:flex-row-reverse print:flex-row-reverse justify-around">
            <div class="w-1/6"> <div class="avatar">
                 <div class="w-full rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
-                    <img src="{identity.picture.large}" class=" rounded-full shadow-2xl"/>
+                    <img src="{identity.picture.large}" class="rounded-full shadow-2xl"/>
                 </div>
             </div>
            </div>
