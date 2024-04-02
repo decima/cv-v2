@@ -4,7 +4,13 @@
     "company": "lePERMISLIBRE",
     "company_doing": "Online drivingschool",
     "descriptions": [
-      "In an online driving school, I am responsible of concieving and developing APIs. I also do code reviews and help the team to improve their skills. I'm also a support of the data team."
+      "Functional and technical conception",
+      "Development of new functionalities for the store, products, candidate application, teacher application and administrator application",
+      "API development",
+      "Testing (unit, functional, integration)",
+      "Application maintenance",
+      "Continuous delivery (99.99% availability)",
+      "Code refactoring"
     ],
     "from": "2021-12-01",
     "to": null,
@@ -14,6 +20,8 @@
       "PHP",
       "Symfony",
       "MySQL",
+      "React",
+      "TypeScript",
       "Docker",
       "Gitlab"
     ]
@@ -23,7 +31,11 @@
     "company": "Nixie.fr",
     "company_doing": "Communication and development agency",
     "descriptions": [
-      ""
+      "Conception, Planning and Development for the reengineering of an ERP focused on industrial production ",
+      "Project management in Agile mode",
+      "Communication and customer relations",
+      "Data migration",
+      "Installation of servers and automatic deployment system"
     ],
     "from": "2020-09-01",
     "to": "2021-11-25",
@@ -42,9 +54,9 @@
     "company": "Nixie.fr",
     "company_doing": "Communication and development agency",
     "descriptions": [
-      "",
-      "",
-      ""
+      "Application maintenance and development of new functionalities for industrial production ERP and CRM systems",
+      "Development of an online health survey with statistics and reporting systems linked to an external API",
+      "Development of an industrial supervision module linked to an external API"
     ],
     "from": "2017-06-01",
     "to": "2020-08-31",
@@ -53,6 +65,8 @@
     "keywords": [
       "PHP",
       "Laravel",
+      "MySQL",
+      "SQL Server",
       "JavaScript",
       "Vue.js"
     ]
@@ -62,8 +76,8 @@
     "company": "Nixie.fr",
     "company_doing": "Communication and development agency",
     "descriptions": [
-      "",
-      ""
+      "Application maintenance and development of new functionalities for industrial production ERPs",
+      "Development of a purchasing platform with customer and administrator interface"
     ],
     "from": "2016-04-01",
     "to": "2016-06-30",

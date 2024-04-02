@@ -1,3 +1,7 @@
 {
-  "description": "À la recherche de nouvelles missions"
+  "title": "M.",
+  "description": "À la recherche de nouvelles missions",
+  "job": {
+    "title": "Développeur Fullstack"
+  }
 }

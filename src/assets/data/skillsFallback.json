@@ -7,6 +7,7 @@
       "Symfony",
       "Laravel",
       "JavaScript",
+      "TypeScript",
       "Vue.js",
       "React"
     ]
@@ -16,6 +17,8 @@
     "icon": "database",
     "keywords": [
       "SQL",
+      "MySQL",
+      "SQL Server",
       "Redis"
     ]
   },

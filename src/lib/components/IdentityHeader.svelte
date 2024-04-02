@@ -6,7 +6,6 @@
     let identityPromise = dataLoad("identity");
 </script>
 
-
 {#await identityPromise }
 {:then identity}
     <div class="hero bg-base-200 py-2 px-8 border-b-primary border-b-4">
@@ -19,12 +18,10 @@
            </div>
             <div class="w-full">
                 <h1 class="text-3xl font-bold">
-                    {$t("identity.title", {firstname: identity.name.first})}</h1>
+                    {$t("identity.title", {firstname: identity.name.first, lastname: identity.name.last})}</h1>
                 <h2 class="text-xl font-thin">{identity.job?.title || ""}</h2>
                 <p class="">{identity?.description || ""}</p>
             </div>
-
-
         </div>
     </div>
 {/await}

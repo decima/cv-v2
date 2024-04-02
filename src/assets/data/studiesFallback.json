@@ -1,9 +1,17 @@
 [
   {
-    "title": "Master in Computer Science - E-services",
-    "school": "University of Lille - France",
-    "date": "2013 - 2015"
+    "title": "Master's Degree – Information System Project Manager, specialized in IT and Project Management",
+    "school": "Institut G4 - Lyon",
+    "date": "2017 - 2020"
   },
-  {},
-  {}
+  {
+    "title": "Associate's Degree (Multimedia and Internet professions)",
+    "school": "Université SMB - Le Bourget-du-Lac",
+    "date": "2014 - 2016"
+  },
+  {
+    "title": "High School Diploma in Sciences (specialized in engineering sciences)",
+    "school": "Lycée la Pléiade - Pont-de-Chéruy",
+    "date": "2014"
+  }
 ]

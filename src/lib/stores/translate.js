@@ -5,7 +5,6 @@ import _ from "lodash";
 async function initTranslator() {
     let translations = {}
 
-
     async function loadTranslations() {
         let content = {}
         content = await import( "../../assets/translations/fallback.json" /* @vite-ignore */);
