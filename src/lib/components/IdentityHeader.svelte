@@ -1,7 +1,6 @@
 <script>
     import {t} from "../stores/translate.js";
     import {dataLoad} from "../utils/dataLoad.js";
-    import SocialIcons from "./SocialIcons.svelte";
 
     let identityPromise = dataLoad("identity");
 </script>
