@@ -1,17 +1,22 @@
 [
   {
-    "title": "Piano",
-    "description": "since I'm 5 years old",
+    "title": "Music",
+    "description": "Piano, Saxophone, Guitare",
     "icon": "piano"
   },
   {
-    "title": "Dungeon Master",
-    "description": "in role playing games",
+    "title": "Games",
+    "description": "Video Games and dungeon master in  role playing game",
     "icon": "casino"
   },
   {
     "title": "DIY",
-    "description": "3D Printing, Electronics, drawing",
+    "description": "Sewing,3D Printing, Electronics, drawing",
     "icon": "brush"
+  },
+  {
+    "title": "Cinema and Travel",
+    "description": "",
+    "icon": "misc"
   }
 ]

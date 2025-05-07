@@ -1,9 +1,11 @@
-CV 2023
+CV
 ==================
 
 ## Description
 
-A CV generator using svelte, tailwind and daisyUI
+A CV generator using svelte, tailwind and daisyUI.
+
+For the old-style cv, you can still get it on [decima/cv](https://github.com/decima/cv)
 
 ## Usage
 
@@ -25,7 +27,7 @@ Then you can **print** the page as a PDF.
 
 Protip: When printing, enable Background graphics to have the background colors, and set the margins to none.
 
-![img.png](docs/img.png)
+![screenshot on the resume rendered in chrome printing popup](./docs/img.png)
 
 ## Customize
 

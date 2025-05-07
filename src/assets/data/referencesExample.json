@@ -1,0 +1,16 @@
+{
+    "ref1": {
+        "name": "John doe",
+        "title":"CEO@AcmeCorp",
+        "email": "john.doe@example.com",
+        "phone": "1234567890"
+    },
+    "ref2": {
+        "name": "Jane doe",
+        "email": "jane.doe@example.com"
+    },
+    "ref3": {
+        "name": "Jack doe",
+        "phone": "1234567890"
+    }
+}

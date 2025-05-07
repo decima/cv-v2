@@ -1,7 +1,41 @@
 [
   {
+    "title": "Sewing",
+    "icon":"reel",
+    "school": "Masséna Formation",
+    "date": "2025",
+    "certified":true
+  },
+  {
+    "title": "Driving license",
+    "icon":"steering-wheel",
+    "school": "Lepermislibre",
+    "date": "2022"
+  },
+  {
+    "title": "Symfony 3 Training",
+    "icon":"symfony",
+    "iconAlt":"brand",
+    "school": "Sensio Labs",
+    "date": "2016"
+  },
+  {
     "title": "Master in Computer Science - E-services",
+    "icon":"graduation-cap",
     "school": "University of Lille - France",
-    "date": "2013 - 2015"
+    "date": "2015"
+  },
+  {
+    "title": "Batchelor in Computer Science",
+    "icon":"graduation-cap",
+    "school": "Coventry University - UK",
+    "date": "2012"
+  },
+  {
+    "title": "Technical Diploma in Computer Science",
+    "icon":"graduation-cap",
+    "school": "Annecy - France",
+    "date": "2011",
+    "hide": false
   }
 ]

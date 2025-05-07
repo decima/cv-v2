@@ -1,23 +1,25 @@
-[
-  {
-    "description": "Auto-\u00e9cole en ligne. Conception et d\u00e9veloppement d'APIs. Support des d\u00e9veloppeurs, revue de code et travail avec PHP et Symfony. Support de l'\u00e9quipe Data."
+{
+  "2024-lumapps": {
+    "title": "Développeur Backend",
+    "description": "Développeur Golang et Python au sein de l'équipe Search, en charge du développement et de la maintenance des différents moteurs de recherche (Elasticsearch, Google Cloudsearch, Microsoft Search, Coveo).En charge d'améliorer la pertinence de la recherche pour des clients multi-langues. Membre de l'équipe SRE et astreintes"
   },
-  {
-    "description": "Solution B2B d'analyse automatisée de données de tickets de caisse. Conception et mise en place d'API externes pour les clients (Go, PHP), et internes pour les différents microservices (Go, PHP, Kotlin, Python, C++)"
+  "2021-lpl": {
+    "description": "Au sein d'une auto-école en ligne, j'étais responsable de la conception et du développement des API ainsi que de la gestion de 5 développeurs backend. J'étais également en charge des revues de code et d'aider l'équipe à monter en compétences. J'assurais également un support pour l'équipe data."
   },
-  {
+  "2015-ag": {
+    "title":"Techlead",
+    "description": "Une start-up spécialisée dans l'extraction de données à partir de tickets de caisse. J'ai conçu l'architecture de la solution logicielle en microservices et participé à son développement, en premier temps au poste de développeur backend, puis devops, puis techlead."
+  },
+  "MDS": {
     "title": "Formateur",
-    "description": "Docker et Linux Avancé – Niveau Master"
+    "description": "Docker et Linux avancé pour des étudiants en Master"
   },
-  {
+  "CCI": {
     "title": "Formateur",
-    "description": "Symfony, Structure de la donnée et Bases de données – Niveau Bachelor"
+    "description": "Symfony, Structures de données et bases de données pour des étudiants en Bachelor."
   },
-  {
+  "CNUM": {
     "title": "Formateur",
-    "description": "PHP, Laravel et Symfony – Adultes en reconversion professionnelle"
-  },
-  {
-    "description": "Solution d'estimation, d'achat et revente d'objets d'occasion sur les différentes marketplaces."
+    "description": "PHP, Laravel et Symfony pour des adultes en reconversion."
   }
-]
+}

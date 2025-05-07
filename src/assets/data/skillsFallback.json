@@ -1,14 +1,16 @@
 [
   {
-    "name": "Programming",
+    "name": "Code",
     "icon": "code",
     "keywords": [
       "PHP",
       "Symfony",
       "Golang",
-      "Kotlin",
-      "Javascript",
       "Python",
+      "Javascript",
+      "Svelte",
+      "VueJS",
+      "Kotlin",
       "Java"
     ]
   },

@@ -1,11 +1,29 @@
-[
+{
+ "2024-lumapps":
+  {
+    "title": "Golang Developer",
+    "company": "Lumapps",
+    "company_doing": "Intranet",
+    "description": "Member of the search team, I'm in charge of developping and maintainning different search engines (Elasticsearch, Google Cloudsearch, Microsoft Search, Coveo). I'm also in charge of improving search relevance for internationnal customers. Member of the SRE Team and in on-call duty",
+    "from": "2024-03-04",
+    "to": null,
+    "displayInResume": true,
+    "icon": "magnifying_glass",
+    "keywords": [
+      "Golang",
+      "Elasticsearch",
+      "LLM",
+      "Datadog"
+    ]
+  },
+  "2021-lpl":
   {
     "title": "Techlead Backend",
     "company": "lePERMISLIBRE",
     "company_doing": "Online drivingschool",
-    "description": "In an online driving school, I am responsible of concieving and developing APIs. I also do code reviews and help the team to improve their skills. I'm also a support of the data team.",
+    "description": "In an online driving school, I was responsible of concieving and developing APIs and managing 5 backend developers. I was also in charge of code reviews and helping the team to improve their skills. I was also a support of the data team.",
     "from": "2021-12-01",
-    "to": null,
+    "to": "2024-02-14",
     "displayInResume": true,
     "icon": "swap_driving_apps_wheel",
     "keywords": [
@@ -18,6 +36,7 @@
       "BigQuery"
     ]
   },
+  "2015-ag":
   {
     "title": "CTO",
     "company": "Aboutgoods Company",
@@ -41,14 +60,15 @@
       "Kotlin"
     ]
   },
+  "MDS":
   {
     "title": "Teacher",
     "company": "MyDigitalSchool",
     "company_doing": "School",
     "description": "Docker and Advanced Linux for Master's degree students.",
     "from": "2022-01-01",
-    "to": null,
-    "displayInResume": true,
+    "to": "2024-06-30",
+    "displayInResume": false,
     "icon": "school",
     "keywords": [
       "Docker",
@@ -56,6 +76,7 @@
       "Monitoring"
     ]
   },
+  "CCI":
   {
     "title": "Teacher",
     "company": "CCI Haute-Savoie",
@@ -76,6 +97,7 @@
       "Git"
     ]
   },
+  "CNUM":
   {
     "title": "Teacher",
     "company": "Le Campus Numérique in the Alps",
@@ -95,6 +117,7 @@
       "BigQuery"
     ]
   },
+  "2014-discoo":
   {
     "title": "Techlead",
     "company": "Discoo.fr",
@@ -102,7 +125,7 @@
     "description": "A solution of estimating, buying and selling second-hand goods on marketplaces.",
     "from": "2014-09-01",
     "to": "2015-08-01",
-    "displayInResume": true,
+    "displayInResume": false,
     "icon": "album",
     "keywords": [
       "PHP",
@@ -114,4 +137,4 @@
       "BigQuery"
     ]
   }
-]
+}

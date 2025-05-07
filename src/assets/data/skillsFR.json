@@ -1,19 +1,14 @@
 [
   {
-    "name": "Développement",
-    "keywords": {
-      "2": "Golang"
-    }
+    "name": "Développement"
   },
-  {},
-  {},
   {
-    "name": "Langues",
-    "keywords": [
-      "Français",
-      "Anglais",
-      "Espagnol",
-      "Bulgare"
-    ]
+    "name": "Data"
+  },
+  {
+    "name": "Devops"
+  },
+  {
+    "name": "Langues"
   }
 ]
